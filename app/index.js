@@ -66,6 +66,7 @@ Bouncer.defaultProps = {
 Bouncer.propTypes = {
   width: React.PropTypes.number,
   height: React.PropTypes.number,
+  url: React.PropTypes.string.isRequired,
 };
 
 const styles = StyleSheet.create({
