@@ -5,7 +5,7 @@ Props
 Prop                  | Type     | Default                   | Required | Description
 --------------------- | -------- | ------------------------- | -------- | -----------
 width|number|window.width|No| width
-height|number|width.height|NO|height
+height|number|window.height|NO| height
 url|string||YES|image url
 
 ![](./gif/bounce.gif)
