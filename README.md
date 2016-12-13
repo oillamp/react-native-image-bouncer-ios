@@ -7,3 +7,5 @@ Prop                  | Type     | Default                   | Required | Descri
 width|number|window.width|No| width
 height|number|width.height|NO|height
 url|string||YES|image url
+
+![](./gif/bounce.gif)
